@@ -58,10 +58,10 @@ basic componentns
   }
 
   //SCORE
-  int score =0;
+  int score = 0;
 
   void incrementScore() {
-    score +=1;
+    score += 1;
   }
 
   //GAME OVER
